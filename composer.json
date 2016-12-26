@@ -1,0 +1,15 @@
+
+{
+    "name": "larakit/sf-angular-touch",
+    "description": "[Larakit] [staticfiles] sf-angular-touch",
+    "version": "1.0.0",
+    "license": "MIT",
+    "require":{
+        "larakit/lk-staticfiles":"*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
