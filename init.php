@@ -3,3 +3,5 @@
     ->setSourceDir('public')
     ->usePackage('larakit/sf-angular')
     ->jsPackage('angular-touch.min.js');
+
+\Larakit\LkNgModule::register('ngTouch');
